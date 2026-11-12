@@ -58,7 +58,7 @@ Pipe length, sensor position, flow rate and recording length are deliberately **
 
 ## Quick start
 
-> _TODO: `requirements.txt` and `run_all.py` are not written yet._
+> _TODO: `run_all.py` is not written yet._
 
 ```bash
 git clone <repo-url>
