@@ -124,7 +124,7 @@ This repository contains two kinds of material under **different licences**:
 | What | Owner | Licence |
 |---|---|---|
 | **Dataset files**: everything in `data/raw/`, plus `DATASET_README.txt` | Theophilus Oluwaseyi Ariyo and Ajibola Matthew | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The authors' README also describes the dataset as for research and academic use. See [The data](#the-data). |
-| **Everything else** (code, notebooks, documentation, generated figures) | Me | _TODO: proposed MIT License (see `LICENSE`)_ |
+| **Everything else** (code, notebooks, documentation, generated figures) | Lotanna Henry | [MIT License](LICENSE) |
 
 The licence for my code does **not** apply to the dataset files. If you reuse the data, follow its licence and cite the original authors.
 
